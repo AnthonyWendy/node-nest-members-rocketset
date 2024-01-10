@@ -1,6 +1,6 @@
 # Litle Project with NestJS
 
-The objetive this project is learning about NestJS and your feactures.
+The objetive this project is learn  about NestJS and your feactures.
 
 ## Install
 
